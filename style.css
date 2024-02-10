@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+*{
+font-family: 'Lato', sans-serif;
+}
+.card{
+    width: 500px;
+    height: 300px;
+    border-radius: 30px;
+    margin: 200px auto;
+    background: #80ced6;
+
+}
+.mainheading{
+padding: 20px;
+font-weight: bolder;
+
+
+}
+.dob{
+    margin-left: 80px;
+    font-weight: bolder;
+    font-size: larger;
+    
+}
+.btn{
+    margin-top: 10px;
+}
+
+.result{
+    margin-left: 100px;
+    margin-top: 20px;
+font-weight: bolder;
+}
